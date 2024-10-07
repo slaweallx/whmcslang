@@ -1,3 +1,3 @@
 # lang
-Yazıım, program, betik, eklenti, tema, vb vb Dil dosyaları.
+Whmcs Türkçe dil dosyası, Admin ve Client için full dil dosyasıdır.
 
